@@ -1,0 +1,7 @@
+{
+  "name": "operator handoff",
+  "domain": "healthcare research",
+  "score_floor": 0.72,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
